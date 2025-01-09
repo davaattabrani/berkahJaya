@@ -27,13 +27,13 @@
     <div class="layout-wrapper layout-content-navbar">
       <div class="layout-container">
         <!-- Menu -->
-         <?php include('../sideBar.php'); ?>
+         <?php include('sideBar.php'); ?>
         <!-- / Menu -->
 
         <!-- Layout container -->
         <div class="layout-page">
           <!-- Navbar -->
-           <?php include('../navBar.php'); ?>
+           <?php include('navBar.php'); ?>
           <!-- / Navbar -->
 
           <!-- Content wrapper -->
